@@ -1,0 +1,19 @@
+{
+  "name": "login-api",
+  "version": "1.0.0",
+  "description": "API de cadastro e login de usuários",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohspires/login-api.git"
+  },
+  "author": "Pedro Pires",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pedrohspires/login-api/issues"
+  },
+  "homepage": "https://github.com/pedrohspires/login-api#readme"
+}
