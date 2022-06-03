@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pedrohspires/login-api/issues"
   },
-  "homepage": "https://github.com/pedrohspires/login-api#readme"
+  "homepage": "https://github.com/pedrohspires/login-api#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
